@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919223369167",
+    "project_id": "demooo-caac7",
+    "storage_bucket": "demooo-caac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919223369167:android:0176fc8e0c5f2daf1fa6ba",
+        "android_client_info": {
+          "package_name": "com.example.chatjptflutter_projecr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhEdaaVkKQn4A6QZ3DwBsIbwEGJDpguc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
