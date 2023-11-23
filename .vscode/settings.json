@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "E:/flutter/ecommerce/linux"
+    "cmake.sourceDirectory": "E:/flutter/ecommerce/linux",
+    "cSpell.words": [
+        "promig"
+    ]
 }

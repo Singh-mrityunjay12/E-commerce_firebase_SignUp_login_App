@@ -39,12 +39,18 @@ dependencies:
   flutter_keyboard_visibility: ^3.3.0
   
   firebase_auth: ^4.2.9
-  firebase_storage: ^11.0.14
   firebase_core: ^2.7.0
   google_sign_in: ^6.0.2
   cloud_firestore: ^4.4.5
   flutter_easyloading: ^3.0.5
   firebase_messaging: ^14.3.0
+  carousel_slider: ^4.2.1
+  cached_network_image: ^3.2.1
+  
+  image_picker: ^0.8.7+1
+  firebase_storage: ^11.0.16
+  uuid: ^4.1.0
+  image_card: ^0.0.4
 
 dev_dependencies:
   flutter_test:
